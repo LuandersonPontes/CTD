@@ -1,0 +1,101 @@
+
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.div1 {
+    width: 500px;
+    padding: 30px;
+    background-color: aqua;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.img1 {
+    width: 300px;
+}
+
+.div2 {
+    background-color:green;
+    width: 500px;
+    padding: 30px;
+    text-align: center;
+
+}
+
+.img2 {
+    width: 300px;
+}
+
+.div3 {
+    width: 500px;
+    padding: 30px;
+    background-color: pink;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.img3 {
+    width: 300px;
+}
+
+.div4{
+    width: 500px;
+    padding: 30px;
+    background-color: orange;
+    text-align: center;
+    box-sizing: border-box;
+    justify-content: center;
+}
+
+.img4 {
+    width: 300px;
+}
+
+.div5 {
+    width: 500px;
+    padding: 30px;
+    background-color:yellow;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.img5 {
+    width: 300px;
+}
+
+.div6 {
+    width: 500px;
+    padding: 30px;
+    background-color: red;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.img6 {
+    width: 300px;
+}
+
+.teste1{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.teste2{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+.teste3{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 10px;
+}
