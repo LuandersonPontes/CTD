@@ -1,0 +1,14 @@
+- Criar um novo repositório local 
+$ git init
+
+- Clonar um repositório existente
+$ git clone ssh://usuario@domain.com/repo.git
+
+- Adiciona uma mensagem nas alterações feitas
+$ git commit -m "mensagem"
+
+Adiciona as mudanças para o repositório
+$ git push origin master
+
+- rastreia o status do arquivo
+$ git status 
