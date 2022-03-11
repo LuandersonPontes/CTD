@@ -1,0 +1,117 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+}
+
+.header {
+    background-color: aqua;
+    padding: 5px;
+}
+
+.h1 {
+    background-color: rgb(61, 122, 192);
+    padding: 10px;
+}
+
+.section{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    gap: 20px;
+    
+}
+
+.div{
+    display:flex;
+    flex-direction: column;
+    background-color:whitesmoke;
+    width: 500px;
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+.caverna{
+    height: 300px;
+    border-top-left-radius: 15px ;
+    border-top-right-radius: 15px;
+    width: 500px;
+
+
+}
+
+.foto{
+    
+    margin-top: 220px;
+    margin-left: 180px;
+    margin-right: auto;
+    border-radius: 95px;
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    
+}
+
+.ver1 {
+    background-color: rgb(61, 122, 192);
+    width: 100px;
+    margin-left: 200px;
+    padding: 10px;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    color: white;
+}
+
+.h2{
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+
+.div2 {
+    display:flex;
+    flex-direction: column;
+    margin-top: 50px;
+    text-align: center;
+    background-color: whitesmoke;
+    width: 500px;
+}
+
+.cores {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    width: 500px;
+    height: 300px;
+}
+
+.foto2 {
+    
+    border-radius: 95px;
+    width: 150px;
+    height: 150px;
+    margin-right: 200px;
+}
+
+.h3 {
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+.ver2 {
+    background-color: rgb(61, 122, 192);
+    width: 100px;
+    margin-left: 200px;
+    padding: 10px;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    color: white;
+    
+}
+
+.footer{
+    background-color: rgb(61, 122, 192);
+    margin-top: 75px;
+    padding: 10px;
+    color: white;
+    
+}
